@@ -1,0 +1,66 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(36, 36, 36, 0.1);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#education p {
+    font-style: italic;
+    color: #555;
+}
+
+#project-list li {
+    border-left: 4px solid #333;
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
+
+#certifications p {
+    font-style: italic;
+    color: #555;
+}
+#certifications2 p {
+    font-style: italic;
+    color: #555;
+}
